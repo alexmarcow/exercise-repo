@@ -6,6 +6,6 @@ From SoftUni told me to make some changes here
 
 Resolving Conflict between the two new added messages!
 
-// one step forward
+// one step forward.
 
 Practising GitBash
